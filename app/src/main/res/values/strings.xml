@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">X Bank</string>
+    <string name="email_text_recover">Digite seu email e enviaremos um link de recuperação de senha.</string>
+    <string name="login_create_account_text">Criar uma conta</string>
+    <string name="OR">OU</string>
+    <string name="login_text_login">Entrar</string>
+    <string name="login_awsner_account_text">Esqueceu a senha?</string>
+    <string name="login_text_email">Email</string>
+    <string name="login_text_password">Senha</string>
+    <string name="recover_send">Enviar</string>
+    <string name="recover_text_toolbar_password">Recuperar Senha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_name">Nome</string>
+    <string name="register_phone">Telefone</string>
+    <string name="register_toolbar_createaccount">Criar Conta</string>
+    <string name="register_text_confirm_password">Confirme sua senha</string>
+    <string name="register_btn_register">Cadastrar</string>
+</resources>

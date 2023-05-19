@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.XBank" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:windowBackground">@color/bg_app</item>
+    </style>
+
+    <style name="Theme.XBank" parent="Base.Theme.XBank" />
+</resources>
